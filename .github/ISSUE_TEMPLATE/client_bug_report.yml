@@ -1,0 +1,16 @@
+name: Modpack Bug Report
+description: File a bug report for a modpack.
+title: "[MODPACK-BUG]: "
+type: "Bug"
+labels: ["modpack", "needs validation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report for a **modpack**!
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: How to reproduce ?
+      description: How did you get the error ?
+      placeholder: Step by step description how the error occurred
