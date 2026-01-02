@@ -1,7 +1,8 @@
 name: Modpack Bug Report
 description: File a bug report for a modpack.
 title: "[MODPACK-BUG]: "
-labels: ["modpack", "bug", "needs validation"]
+labels: ["modpack", "needs validation"]
+type: "Bug"
 body:
   - type: markdown
     attributes:

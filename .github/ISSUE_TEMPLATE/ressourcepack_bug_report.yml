@@ -1,7 +1,8 @@
 name: Ressourcepack Bug Report
 description: File a bug report for a ressourcepack.
 title: "[RESSOURCEPACK-BUG]: "
-labels: ["ressourcepack", "bug", "needs validation"]
+labels: ["ressourcepack", "needs validation"]
+type: "Bug"
 body:
   - type: markdown
     attributes:
